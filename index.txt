@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://sppgbatutulis2.github.io/profil-sppgbatutulis2/sitemap.xml
